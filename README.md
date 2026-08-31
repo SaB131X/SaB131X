@@ -12,3 +12,6 @@ Silly dev<br/>
 
 ### Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=SaB131X&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+
+# System Config:
+- [NixOS Laptop](https://github.com/SaB131X/nixos-config)
